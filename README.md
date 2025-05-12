@@ -1,5 +1,4 @@
 Micro_IT_Portfolio_Project
-This if my first Git repository
 <br>
 and it includes two projects in C++ language
 <br>
